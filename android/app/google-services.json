@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "83895752164",
+    "project_id": "waltix-1",
+    "storage_bucket": "waltix-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83895752164:android:5df87cd13af2a0406be3f1",
+        "android_client_info": {
+          "package_name": "com.example.waltix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83895752164-9pol11pc25sh1eviphsudh47uco0rgtt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3FudRq6_XGU7udMK2SHpuTF-_MvZfsBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83895752164-9pol11pc25sh1eviphsudh47uco0rgtt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "83895752164-v44rrau441387a5da1tr8ppm7d7uhdpl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.waltix"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
